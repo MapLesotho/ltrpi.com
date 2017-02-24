@@ -12,7 +12,7 @@ published: true
 
 The Lesotho Town and Regional Planning Institute is Lesotho’s planning body for spatial, sustainable and inclusive planning in the Country. 
 
-It was established on the 19th of February 2015 after discussions with planners throughout the country and with assistance from both the _Irish Planning Institute_ and the _Royal Town Planning Institute Ireland_ in association with the help and support of _Fingal County Council_, Ireland.  
+It was established on the 19th of February 2015 after discussions with planners throughout the country and with assistance from both the _Irish Planning Institute_and the Royal Town Planning Institute Ireland _in association with the help and financial support of_ Fingal County Council, _Ireland in conjunction with the **Fingal / Lesotho Partnership**._
 
 " _Encouraging, assisting and supporting our members throughout their professional careers is what we do. We will make sure out members stand out and become great professionals in the art of town planning._"   
 **Mrs Masetori Makhetha, 
