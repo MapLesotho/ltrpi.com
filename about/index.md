@@ -33,4 +33,4 @@ We work in partnership with employers, the government, NGO’s and the National 
 
 ### **Please contact us**
 
-to join the institute or get involved at LTPRI.info@gmail.com ](mailto:LTPRI.info@gmail.com)
+to join the institute or get involved at [LTPRI.info@gmail.com](mailto:LTPRI.info@gmail.com)
