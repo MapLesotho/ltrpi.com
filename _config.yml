@@ -5,8 +5,8 @@ locale: en_US
 description: Describe your website here.
 logo: lrtpi.png
 search: true
-#url: http://ltrpi.com
-url: ''
+url: http://ltrpi.com
+# url: ''
 
 # Jekyll configuration
 
