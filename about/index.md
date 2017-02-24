@@ -1,8 +1,8 @@
 ---
 layout: page
 title: About - LRTPI
-excerpt: "About the Lesotho town and regional planning institute."
-modified: 2017-02-24T19:44:38.564948-04:00
+excerpt: About the Lesotho town and regional planning institute.
+modified: {}
 image:
   feature: so-simple-sample-image-4.jpg
   credit: WeGraphics
@@ -33,4 +33,4 @@ We work in partnership with employers, the government, NGO’s and the National 
 
 ### **Please contact us**
 
-to join the institute or get involved at [info@LTPRI@gmail.com ](mailto:info@LTPRI@gmail.com) 
+to join the institute or get involved at LTPRI.info@gmail.com ](mailto:LTPRI.info@gmail.com)
